@@ -1,5 +1,3 @@
-from typing import Optional
-from unicodedata import category
 from pydantic import BaseModel, EmailStr, Field
 from datetime import datetime
 
