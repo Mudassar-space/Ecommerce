@@ -1,0 +1,9 @@
+fastapi==0.78.0
+SQLAlchemy==1.4.36
+uvicorn==0.17.6
+python-multipart==0.0.6
+python-jose==3.3.0
+python-dateutil==2.8.2
+python-decouple==3.5
+jwcrypto==1.0
+PYJWT == 1.7.1
