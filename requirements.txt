@@ -7,3 +7,4 @@ python-dateutil==2.8.2
 python-decouple==3.5
 jwcrypto==1.0
 PYJWT == 1.7.1
+pydantic[email]
